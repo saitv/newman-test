@@ -1,1 +1,5 @@
-# newman-test
+Newman-Test
+Env containing
+
+- mongo
+- newman
