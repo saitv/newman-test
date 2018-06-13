@@ -1,5 +1,4 @@
 Newman-Test  
-Env containing
+Env contains:
 
-- mongo
 - newman
